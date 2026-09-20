@@ -1,8 +1,4 @@
-Here is the complete, ready-to-use Markdown code for your **`adithyadiwanad-sudo/adithyadiwanad-sudo`** profile `README.md`.
 
-Copy everything in the code block below, paste it directly into your GitHub `README.md` editor, and hit **Commit changes**:
-
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Adithya Diwanad
