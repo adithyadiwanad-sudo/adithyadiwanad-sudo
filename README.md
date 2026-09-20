@@ -1,3 +1,8 @@
+Here is the complete, ready-to-use Markdown code for your **`adithyadiwanad-sudo/adithyadiwanad-sudo`** profile `README.md`.
+
+Copy everything in the code block below, paste it directly into your GitHub `README.md` editor, and hit **Commit changes**:
+
+```markdown
 <div align="center">
 
 # 👋 Hi, I'm Adithya Diwanad
@@ -28,3 +33,51 @@ const adithyaDiwanad = {
   languages: ["Java (DSA)", "Python", "JavaScript", "TypeScript"],
   status: "Open for SDE / Software Developer Internship & Entry-Level Roles"
 };
+
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 [WanderLust](https://adithya-portfolio-delta.vercel.app/?utm_source=gemini) — Full-Stack Accommodation Platform
+
+> * **Tech Stack:** `Node.js` • `Express.js` • `MongoDB` • `EJS` • `Bootstrap`
+> * **Overview:** Full-stack lodging listing platform with secure authentication, database management, and interactive review management workflows.
+> 
+> 
+
+### 🛡️ NeuroShield AI — Security & Threat Protection Platform
+
+> * **Tech Stack:** `Python` • `Scikit-learn` • `REST APIs` • `Machine Learning`
+> * **Overview:** Intelligent security platform designed to detect threats, monitor model inference risks, and analyze system vulnerabilities.
+> 
+> 
+
+### 🎙️ Plan2Field AI — Voice-Driven Workflow Automation *(In Development)*
+
+> * **Tech Stack:** `Python` • `Whisper` • `REST APIs` • `MongoDB`
+> * **Overview:** AI capture system converting spoken field notes into structured project management workflows for real-time progress tracking.
+> 
+> 
+
+---
+
+## 📦 Mini & Utility Builds
+
+* 📊 **Student Performance Predictor:** Machine Learning API built with `Python`, `Scikit-learn`, and `Flask`.
+* 🛂 **Passport Tracking Management:** Full-stack tracking portal designed to streamline application processing workflows.
+
+---
+
+## 🛠️ Technical Stack & Skills
+
+### Languages & Core
+
+### Backend & Databases
+
+### AI, ML & Frameworks
+
+---
+
+## 📊 GitHub System Activity
