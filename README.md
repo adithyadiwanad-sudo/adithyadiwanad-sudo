@@ -36,7 +36,7 @@ const adithyaDiwanad = {
 
 ## 🚀 Featured Projects
 
-### 🏢 [WanderLust](https://adithya-portfolio-delta.vercel.app/?utm_source=gemini) — Full-Stack Accommodation Platform
+### 🏢 WanderLust — Full-Stack Accommodation Platform
 
 > * **Tech Stack:** `Node.js` • `Express.js` • `MongoDB` • `EJS` • `Bootstrap`
 > * **Overview:** Full-stack lodging listing platform with secure authentication, database management, and interactive review management workflows.
